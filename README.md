@@ -1,5 +1,10 @@
 # TriAngels Infrastructure
 
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Architecture](https://img.shields.io/badge/architecture-zero--trust-green)
+![Network](https://img.shields.io/badge/network-mesh-orange)
+![Infrastructure](https://img.shields.io/badge/infrastructure-headscale%20%2B%20tailscale-purple)
+
 Private Zero-Trust Mesh Network
 
 TriAngels — это распределённая частная mesh-сеть, построенная на основе:
