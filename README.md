@@ -38,6 +38,36 @@ triangels-exit-hu-01     triangels-exit-fi-02
                      │
                 Mesh Clients
       Mac / Windows / Linux / iOS / Android
+
+## Current Network Nodes
+
+Control Plane
+
+triangels-core-fi-01  
+Location: Finland  
+Role: Headscale Control Plane
+
+Exit Nodes
+
+triangels-exit-fi-02  
+Location: Finland  
+Provider: The Hosting  
+
+triangels-exit-hu-01  
+Location: Hungary  
+
+---
+
+## Planned Nodes
+
+Germany
+
+Netherlands
+
+Singapore
+
+Canada
+
 Infrastructure Components
 Control Plane
 
